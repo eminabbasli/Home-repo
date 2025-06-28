@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+body {
+    background-color: #080808;
+
+}
+
+
+a,
+i {
+    color: #9b9b9b;
+    margin: 25px;
+    font-family: "IBM Plex Mono", monospace;
+    text-decoration: none;
+}
+
+nav {
+    padding-top: 20px;
+    background-color: #1b1b1b;
+    height: 70px;
+    width: 1110px;
+    left: 85px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 0 auto;
+}
+
+i {
+    width: 18px;
+    height: 17px;
+    font-weight: bolder;
+}
+
+
+a {
+    margin-right: 50px;
+}
+
+
+h1,
+h6 {
+    color: #fff;
+
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 44px;
+}
+
+h6 {
+    width: 103px;
+height: 18px;
+margin-top: 85px;
+margin-left: 200px;
+gap: 10px;
+
+
+
+}
+
+
+.section01 {
+    width: 538px;
+    height: 247px;
+    margin-top: 150px;
+    margin-left: 180px;
+    gap: 30px;
+
+}
+
+
+button {
+    margin-top: 10px;
+}
+
+
+button:hover {
+    background-color: #337200;
+    color: rgb(255, 255, 255)
+}
+
+button {
+    font-family: IBM Plex Mono;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 307.89px;
+    height: 63px;
+    border: 1px solid #62ba1b;
+    padding: 21px 64px 21px 64px;
+    background-color: #3f8e00;
+    color: #fff;
+    box-shadow: 5px 5px 5px #3f8e00;
+    border-radius: 3%;
+}
+
+
+.section02 {
+    float: right;
+    display: inline-block;
+    
+
+}
+
+
+img {
+    width: 316px;
+    height: 323px;
+    margin-top: -410px;
+    margin-left: -20px;
+    border-radius: 90%;
+    margin-right: 70px;
+
+}
+
+
+p {
+    font-weight: 400;
+    font-family: "IBM Plex Mono", monospace;
+    letter-spacing: 1%;
+    line-height: 24px;
+    color: #fff;
+    gap: 30px;
+}
+
+
+
+.images{
+    width: 95px;
+    height: 45px;
+    border-radius: 0%;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+.image{
+    width: 95px;
+    height: 45px;
+    border-radius: 0%;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.imag{
+    width: 95px;
+    height: 45px;
+    border-radius: 0%;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.ima{
+    width: 95px;
+    height: 45px;
+    border-radius: 0%;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.im{
+    width: 95px;
+    height: 45px;
+    border-radius: 0%;
+    margin-left: 45px;
+    margin-top: 30px;
+}
